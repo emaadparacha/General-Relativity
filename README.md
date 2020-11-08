@@ -2,13 +2,13 @@
 
 Python notebooks to compute items of interest in General Relativity, such as Christoffel symbols, Reimann and Ricci tensors, and the Ricci scalar.
 
-There is currently one Python notebook in this repository, named `Tensor Calculator - General Relativity.ipynb`, with more to potentially be added in the future.
+There is currently one Python notebook in this repository, named [`Tensor Calculator - General Relativity.ipynb`](https://github.com/emaadparacha/general-relativity/blob/main/Tensor%20Calculator%20-%20General%20Relativity.ipynb), with more to potentially be added in the future.
 
 Current dependencies required:
 * [SymPy](https://docs.sympy.org/latest/install.html)
 
 
-## Tensor Calculator Notebook
+## [Tensor Calculator Notebook](https://github.com/emaadparacha/general-relativity/blob/main/Tensor%20Calculator%20-%20General%20Relativity.ipynb)
 
 A simple easy-to-use Jupyter Notebook to help compute Christoffel symbols, the Reimann and Ricci tensors, and the Ricci scalar using SymPy with a given spacetime metric in 3 + 1 dimensions.
 
