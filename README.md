@@ -9,6 +9,7 @@ Current dependencies required:
 
 
 ## [Tensor Calculator Notebook](https://github.com/emaadparacha/general-relativity/blob/main/Tensor%20Calculator%20-%20General%20Relativity.ipynb)
+#### Updated: March 15, 2023
 
 A simple easy-to-use Jupyter Notebook to help compute Christoffel symbols, the Reimann and Ricci tensors, and the Ricci scalar using SymPy with a given spacetime metric in 3 + 1 dimensions.
 
